@@ -9,12 +9,11 @@ This is a simple Flask web application with a homepage and a contact form. Users
 - Form submission handling using Flask's `request` object
 - Clean and minimal structure using Flask's `templates` and `static` folders
 ---
-## 📁 Project Structure
+## 📁 Project Structure 
 flask_contact_form/
-├── app1.py
-├── static/
-│ └── style.css
-├── templates/
-│ ├── index.html
-│ └── contact.html
-
+- app1.py
+- static/
+  - style.css
+- templates/
+  - index.html
+  - contact.html
